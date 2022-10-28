@@ -1,0 +1,6 @@
+{
+  "mobile.resourceTypes": [
+    "aaem_dialogs_vue/components/page"
+  ],
+  "README": "Indicate which page resource types should display the mobile emulators."
+}
